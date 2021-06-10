@@ -1,5 +1,5 @@
 [![Screenshot](https://github.com/pinco227/CI-Python-Walkthrough/blob/main/screenshot.jpg)](https://ci-flask-demo.herokuapp.com/about)
-# Code Institute- Python Walkthrough Project
+# Code Institute - Python Walkthrough Project
 ## Thorin & Company
 ### Using Flask micro-framework
 
